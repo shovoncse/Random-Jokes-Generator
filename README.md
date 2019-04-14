@@ -14,10 +14,8 @@ This project is great if you want to extend your knowledge with vanilla javascri
 #XML
 
 🛴 Follow me on:
-Linkedin: https://www.linkedin.com/in/shovoncse/
-Twitter: https://twitter.com/shovancse
-Github: https://github.com/shovoncse
-Personal website: https://www.shovon.net/
+-Linkedin: https://www.linkedin.com/in/shovoncse/
+-Twitter: https://twitter.com/shovancse
 
 <div align="center"><img src="https://i.ibb.co/gtRQQj1/jokes.png" alt="rest-api" border="0"></div>
 
