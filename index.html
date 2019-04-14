@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <title>Jokes Generator</title>
+  </head>
+  <body>
+      <!-- Navbar -->
+    <nav class="navbar navbar-dark bg-primary mb-3">
+        <div class="container">
+            <span class="navbar-brand">Jokes Generator</span>
+        </div>
+    </nav>
+    <!-- Search Form -->
+    <div class="container">
+        <div class="card card-body bg-light mb-2">
+            <h4>How Many?</h4>
+            <form id="search-form">
+                <div class="form-group">
+                    <input type="text" id="number" class="form-control mb-3">
+                </div>
+                <button type="submit" class="btn btn-dark btn-block mt-4">Generate</button>
+            </form>
+        </div>
+    </div>
+    <!-- Output (Jokes) -->
+    <div class="container">
+        <div id="output"></div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
